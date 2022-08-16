@@ -20,5 +20,7 @@ Now apply the patch with the commands:
 git clone https://github.com/thallisson1887/archlinux-remaster.git  
 cd calamares-archlinux-patch  
 sudo ./applypatch.sh  
+cd
+rm -r calamares-archlinux-patch  
   
 Now your system is ready for remastering.
