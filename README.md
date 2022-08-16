@@ -1,4 +1,4 @@
-# calamares-archlinux-patch
+# Utility to create Arch Linux remasters
 ### settings to use calamares for Arch Linux remaster by Penguin's Eggs available in arch-easy-tools repository
 
 To apply the patch, add the arch-easy-tools repository by the command
