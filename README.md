@@ -5,7 +5,7 @@ To apply the patch, add the arch-easy-tools repository by the command
 
 sudo (your text editor) /etc/pacman.conf
 
-add to file:
+add to file:  
 [arch-easy-tools]
 SigLevel = Never
 Server = https://arch.openmedia.com.br/$arch
