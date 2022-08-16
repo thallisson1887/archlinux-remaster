@@ -17,7 +17,7 @@ Now you need to install Penguin's eggs and Calamares with the command:
 sudo pacman -S penguins-eggs calamares  
   
 Now apply the patch with the commands:  
-git clone https://github.com/thallisson1887/calamares-archlinux-patch.git  
+git clone https://github.com/thallisson1887/archlinux-remaster.git  
 cd calamares-archlinux-patch  
 sudo ./applypatch.sh  
   
