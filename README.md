@@ -8,7 +8,7 @@ sudo (your text editor) /etc/pacman.conf
 add to file:  
 [arch-easy-tools]  
 SigLevel = Never  
-Server = https://raw.githubusercontent.com/thallisson1887/archlinux-easytools/main/$arch  
+Server = https://arch.openmedia.com.br/$arch  
   
 save the file and then run the following command:  
 sudo pacman -Sy
