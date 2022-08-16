@@ -1,5 +1,5 @@
 # calamares-archlinux-patch
-## settings to use calamares for Arch Linux remaster by Penguin's Eggs available in arch-easy-tools repository
+### settings to use calamares for Arch Linux remaster by Penguin's Eggs available in arch-easy-tools repository
 
 To apply the patch, add the arch-easy-tools repository by the command
 
