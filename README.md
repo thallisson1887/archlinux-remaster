@@ -10,15 +10,15 @@ add to file:
 SigLevel = Never  
 Server = https://arch.openmedia.com.br/$arch  
   
-save the file and then run the following command:
+save the file and then run the following command:  
 sudo pacman -Sy
 
-Now you need to install Penguin's eggs and Calamares with the command:
-sudo pacman -S penguins-eggs calamares
-
-Now apply the patch with the commands:
-git clone https://github.com/thallisson1887/calamares-archlinux-patch.git
-cd calamares-archlinux-patch
-sudo ./applypatch.sh
-
+Now you need to install Penguin's eggs and Calamares with the command:  
+sudo pacman -S penguins-eggs calamares  
+  
+Now apply the patch with the commands:  
+git clone https://github.com/thallisson1887/calamares-archlinux-patch.git  
+cd calamares-archlinux-patch  
+sudo ./applypatch.sh  
+  
 Now your system is ready for remastering.
